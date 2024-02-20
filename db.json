@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Toyota Camry",
+      "price": 24970,
+      "image": "http://localhost:3001/images/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Honda Civic",
+      "price": 22545,
+      "image": "http://localhost:3001/images/2.jpg"
+    },
+    {
+      "id": "66ca",
+      "name": "McLaren 720s",
+      "price": "99999",
+      "image": "https://4k-tuning.ru/wp-content/uploads/2020/05/mclaren-720s-rdbla-carbon-fiber-1000-hp-4.jpg"
+    }
+  ]
+}
